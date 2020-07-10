@@ -15,30 +15,29 @@
 ## Education
 
 Talented Engineer in Applied Mathematics and Informatics.  
-Granting college: Hanoi University of Science and Technology (
-  DH Bach Khoa Ha Noi)  
+Granting college: Hanoi University of Science and Technology (DH Bach Khoa Ha Noi)  
 Degree Classification: Good (3.02/4 or 7.7/10)
 
 ## Skills
 
+* Understand basic data structures and algorithms.
+  Good at reading and implementing articles. Decent math background
+  (probability, optimization, graph, ..)
+* Basic knowledge of designing a horizontal scalable system.
 * 2+ years experience of using Go. Understand Go's terms:
   pprof, go test, channel, mutex, interface, context, go mod, ..
 * Worked with popular DBMSs: MongoDB, MySQL.
   Understand index as a balanced search tree.
   Aware of effects when concurrently read and write data.
-* Understand basic data structures and algorithms.
-  Good at reading and implementing articles. Decent math background
-  (probability, optimization, graph, ..)
 * Familiar with Linux, Docker.
 * Strong strategy gamers (chess, AoE, DotA, ..)
 
 ## Experiences
 
 * TechX software JSC, Software Engineer, Sep 2019 - now
-  * Write a service that receives data
-    from Ha Noi Stock Exchange (HNX)
-    and Ho Chi Minh city Stock Exchange (HOSE)
-    then saves the data in TechX format.
+  * Write a service that receives data from Ha Noi Stock Exchange (HNX)
+    and Ho Chi Minh city Stock Exchange (HOSE) then saves the data
+    in TechX format.
   * Write a web crawler that can filter near-duplicate pages
     and classify whether or not an abbreviation is a stock symbol
     (example VND can stand for Vndirect securities corporation
