@@ -7,10 +7,11 @@
 * Current address: Cau Giay, Ha Noi
 * Phone: 0396965527 (2nd: 0704620891)
 * Email: tung.daothanhtung@gmail.com
+* Skype: tung.daothanhtung
 * Social network:
   * github.com/daominah
-  * linkedin.com/in/tung-dao-thanh-9a8a1a11a
   * facebook.com/daominah
+  * linkedin.com/in/tung-dao-thanh-9a8a1a11a
 
 ## Education
 
