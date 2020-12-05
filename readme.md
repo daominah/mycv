@@ -31,7 +31,7 @@ Degree Classification: Good (3.02/4 or 7.7/10)
   Understand index as a balanced search tree.
   Aware of effects when concurrently read and write data.
 * Familiar with Linux, Docker.
-* Strong strategy gamers (chess, AoE, DotA, ..)
+* Strong strategy gamer (chess, AoE, DotA, ..)
 
 ## Experiences
 
