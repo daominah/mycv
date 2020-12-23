@@ -36,16 +36,18 @@ Degree Classification: Good (3.02/4 or 7.7/10)
 ## Experiences
 
 * TechX software JSC, Software Engineer, Sep 2019 - now
+  * Write a service that sends and receives payments from BIDV.
   * Write a service that receives data from Ha Noi Stock Exchange (HNX)
     and Ho Chi Minh city Stock Exchange (HOSE) then saves the data
     in TechX format.
   * Write a web crawler that can filter near-duplicate pages
     and classify whether or not an abbreviation is a stock symbol
-    (example VND can stand for Vndirect securities corporation
-    or Vietnamese Dong).
+    (example VND can stand for VNDirect securities corporation
+    or Vietnamese Dong). Familiar with using headless browser (chromedp) 
+    to interact with Javascript websites.
   * Create a Windows DLL for receiving real time market data
     in Excel.
-  * Tech stack: Golang, Python, Kafka, MongoDB.
+  * Tech stack: Golang, Python, Kafka, MongoDB, etcd.
 
 * VCCorp JSC, Software Engineer, Mar 2019 - Jul 2019
   * Build a C++ Rocksdb cluster library
