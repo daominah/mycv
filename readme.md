@@ -6,9 +6,10 @@
 * Hometown: Gia Binh, Bac Ninh
 * Current address: Cau Giay, Ha Noi
 * Phone: 0396965527 (2nd: 0704620891)
-* Email: tung.daothanhtung@gmail.com
-* Skype: tung.daothanhtung
-* Social network:
+* Messaging network:
+  * Telegram (preferred): +84 396965527
+  * Skype: tung.daothanhtung
+  * Email: tung.daothanhtung@gmail.com
   * github.com/daominah
   * facebook.com/daominah
   * linkedin.com/in/tung-dao-thanh-9a8a1a11a
@@ -24,18 +25,20 @@ Degree Classification: Good (3.02/4 or 7.7/10)
 * Understand basic data structures and algorithms.
   Good at reading and implementing articles. Decent math background
   (probability, optimization, graph, ..)
-* Basic knowledge of designing a horizontal scalable system.
-* 2+ years experience of using Go. Understand Go's terms:
+* Basic knowledge of designing a scalable system.
+* 3+ years experience of using Go. Understand Go's terms:
   pprof, go test, channel, mutex, interface, context, go mod, ..
-* Worked with popular DBMSs: MongoDB, MySQL.
-  Understand index as a balanced search tree.
-  Aware of effects when concurrently read and write data.
+* Worked with popular DBMSs: MongoDB, MySQL. Understand index. Aware of 
+  effects when concurrently read and write data.
 * Familiar with Linux, Docker.
+* Like new problems and good at solving them.
+* Like doing back-end and deployment tasks. Hate full stack jobs.
 * Strong strategy gamer (chess, AoE, DotA, ..)
 
 ## Experiences
 
 * TechX software JSC, Software Engineer, Sep 2019 - now
+  * Write a service that reads Vietnamese identity card.
   * Write a service that sends and receives payments from BIDV.
   * Write a service that receives data from Ha Noi Stock Exchange (HNX)
     and Ho Chi Minh city Stock Exchange (HOSE) then saves the data
@@ -47,7 +50,8 @@ Degree Classification: Good (3.02/4 or 7.7/10)
     to interact with Javascript websites.
   * Create a Windows DLL for receiving real time market data
     in Excel.
-  * Tech stack: Golang, Python, Kafka, MongoDB, etcd.
+  * Tech stack: Golang, Python (OpenCV, TesseractOCR), Kafka, MySQL, 
+    MongoDB, etcd, ReactJS
 
 * VCCorp JSC, Software Engineer, Mar 2019 - Jul 2019
   * Build a C++ Rocksdb cluster library
@@ -77,4 +81,4 @@ Degree Classification: Good (3.02/4 or 7.7/10)
     to suggest the best move, using alpha-beta pruning
     (a type of branch and bound).
   * Develop a video resizing service.
-  * Tech stack: Python, NodeJS, ffmpeg.
+  * Tech stack: Python, ffmpeg.
