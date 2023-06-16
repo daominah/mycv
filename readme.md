@@ -20,7 +20,11 @@ Degree classification: good.
 
 ## Skill
 
-* Mainly work as a back-end developer. Occasionally do front-end for internal use.
+<!--- * Messaging contact: Telegram: https://t.me/daominah, Skype: tung.daothanhtung --->
+<!--- * Looking for a backend developer remote job (main language Go).  --->
+<!--- * Not interested in cryptocurrency related jobs. --->
+
+* Mainly work as a backend developer. Occasionally do frontend for internal use.
 * 5 years experience of using Go (main job and side projects). Can structure a
   project to make it split between logic and network, so the project is easier
   to test and maintain. Know how to write and optimize code for performance.
@@ -31,7 +35,7 @@ Degree classification: good.
   with some cluster solutions for resilience and high throughput of write
   queries (MySQL group replication, Cassandra, etcd, Redis cluster).
 * Familiar with Linux, Docker.
-* Strong strategy gamer (Chess, AoE, DotA, ..)
+<!--- * Strong strategy gamer (Chess, AoE, DotA, ..) ---> 
 
 ## Experience
 
@@ -42,7 +46,7 @@ Degree classification: good.
   * Write a service receives data from Ha Noi Stock Exchange (HNX) and Ho Chi
     Minh city Stock Exchange (HOSE) then saves the data in my company format.
   * Write a web crawler that can filter near-duplicate pages
-    and classify whether or not an abbreviation is a stock symbol.
+    and classify whether an abbreviation is a stock symbol.
     Use headless browser (chromedp) to interact with Javascript websites.
   * Create a Windows DLL for receiving real time market data in Excel.
   * Tech stack: Golang, Docker, MySQL, Python (OpenCV, Tensorflow), Kafka,
@@ -60,8 +64,9 @@ Degree classification: good.
 * Big Fat Team LLC, Software Engineer, 2017 - 2018
   * Develop, deploy, maintain a multiplayer turn-based game server.
     The number of concurrent users is about 1000.
-    <!-- My first project as a main developer and first Golang project -->
   * Tech stack: Golang, PostgreSQL.
+
+  <!-- My first project as a main developer and first Golang project -->
 
 * Thu Do multimedia JSC, Software Engineer, 2015 - 2017
   * Write functions that analyze Xiangqi and card games positions
