@@ -6,11 +6,11 @@
 * Address: Gia Binh, Bac Ninh, Viet Nam
 * Phone: +84 396965527
 * Messaging network:
-  * Telegram (preferred): t.me/daominah
+  * Telegram: t.me/daominah
   * github.com/daominah
   * email: tung.daothanhtung@gmail.com
   * Skype: tung.daothanhtung
-  * facebook.com/daominah
+  <!--- * facebook.com/daominah --->
 
 ## Education
 
@@ -39,7 +39,7 @@ Degree classification: good.
 
 ## Experience
 
-* Difisoft VN JSC, Software Engineer, 2019 - now
+* Difisoft VN JSC, Software Engineer, 2019 - 2023
   * Write an automated trading service.
   * Write a service reads Vietnamese identity card.
   * Write a service sends and receives payments from banks.
