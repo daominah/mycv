@@ -1,5 +1,7 @@
 # Curriculum vitae
 
+<img align="right" width="192" height="256" src="portrait.png" alt="Tung photo"/>
+
 * Full name: Đào Thanh Tùng
 * Gender: male
 * Date of birth: 1991-08-20
@@ -11,6 +13,7 @@
   - email: tung.daothanhtung@gmail.com
   - Skype: tung.daothanhtung
   <!--- * facebook.com/daominah --->
+
 
 ## Education
 
@@ -44,7 +47,7 @@ Degree classification: good.
 
 * Miss Moneypenny Technologies, 2023 - now
   - Write new feature, maintain backend code of an application that
-    manage content in Google Wallet and Apple Wallet.
+    manages content in Google Wallet and Apple Wallet.
   - Tech stack: PostgreSQL, Golang, OpenTelemetry, NATS messaging, Traefik proxy
 
 * Difisoft VN JSC, Software Engineer, 2019 - 2023
