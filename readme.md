@@ -1,6 +1,6 @@
 # Curriculum vitae
 
-<img align="right" width="192" height="256" src="portrait.png" alt="Tung photo"/>
+<img align="right" width="150" height="200" src="portrait.png" alt="Tung photo"/>
 
 * Full name: Đào Thanh Tùng
 * Gender: male
@@ -32,7 +32,7 @@ Degree classification: good.
 * Mainly work as a backend developer. 5+ years experience of using Go.
 * Can structure a project to make it split between logic and network,
   so it is easier to test and maintain the code.
-  Aware of the important of document and observability.
+  Aware of the importance of document and observability.
 * Understand basic data structures and algorithms. Have a decent math background.
   Good at reading scientific articles and solving new problems.
 * Familiar with popular database management systems: MySQL, PostgreSQL , MongoDB...
