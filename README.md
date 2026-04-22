@@ -17,7 +17,12 @@ Contact:
 
 Backend engineer with 10 years of experience, primarily in Go.
 
-Comfortable owning a service end to end:
+Work best on small teams where ownership means driving a task to done,
+not necessarily implementing every piece:
+bring in teammates to move parts forward,
+follow up gently to keep the work on track.
+
+Also, comfortable owning a service end to end solo:
 clarifying requirements, design, test-driven implementation,
 documentation, observability, deployment, production debugging.
 Favor demoing a minimal working result to stakeholders early,
